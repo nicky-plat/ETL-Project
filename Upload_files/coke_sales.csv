@@ -1,0 +1,2475 @@
+Item_Name,Size,Order_Qty,Rcvd_Qty,Cost,Extended_Cost
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.5,39.5
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.14,22.14
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z essential",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),1.0,1.0,19.48,19.48
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,18.0,108.0
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Root Beer",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),1.0,1.0,29.65,29.65
+"Dasani, 20oz",CASE (24  1 Each),3.0,3.0,14.47,43.41
+"Dasani, Liter",CASE (12  1 Liter),3.0,3.0,19.49,58.47
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Orange Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z Power C",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (24  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Orange Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Gold Peak, Green Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),3.0,3.0,15.52,46.56
+"Huberts, Blackberry",CASE (12  1 Each),4.0,4.0,20.6,82.4
+"Huberts, Strawberry",CASE (12  1 Each),4.0,4.0,20.6,82.4
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),6.0,6.0,14.47,86.82
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),6.0,6.0,12.26,73.56
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,9.57,19.14
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,9.57,28.71
+"Smart Water, 1 Liter",CASE (12  1 Each),12.0,12.0,17.31,207.72
+"Smart Water, 1.5Liter",CASE (12  1 Each),2.0,2.0,22.73,45.46
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Tomato Blend",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"20 Ounce, Fanta Zero Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Honest Tea, Lemon Grove Maple",CASE (12  1 Each),3.0,3.0,17.5,52.5
+"Honest Tea, Morrocan Mint green",CASE (12  1 Each),3.0,3.0,17.5,52.5
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),3.0,3.0,17.5,52.5
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),4.0,4.0,24.72,98.88
+14Z Yup Chocolate,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Orange Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),4.0,4.0,22.13,88.52
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"1.25 Liter, Coke",CASE (12  1 Liter),3.0,3.0,16.48,49.44
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),3.0,3.0,16.48,49.44
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),3.0,3.0,20.33,60.99
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),3.0,3.0,20.33,60.99
+"20 Ounce, Root Beer",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),3.0,3.0,9.57,28.71
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),4.0,4.0,15.71,62.84
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),6.0,6.0,14.47,86.82
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),6.0,5.0,12.26,61.3
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),5.0,5.0,19.49,97.45
+"Smart Water, 1 Liter",CASE (12  1 Each),16.0,16.0,17.31,276.96
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),4.0,4.0,24.72,98.88
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),2.0,2.0,23.03,46.06
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),6.0,6.0,12.26,73.56
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Morrocan Mint green",CASE (12  1 Each),1.0,1.0,35.0,35.0
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),3.0,3.0,14.47,43.41
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,9.57,19.14
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,9.57,19.14
+"Dasani, Liter",CASE (12  1 Liter),3.0,3.0,19.49,58.47
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 Ounce, Coke Zero",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),2.0,2.0,35.0,70.0
+"Huberts, Blackberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),4.0,4.0,24.72,98.88
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,22.13,22.13
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),8.0,8.0,12.26,98.08
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z essential",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),3.0,3.0,20.6,61.8
+"Huberts, Strawberry",CASE (12  1 Each),3.0,3.0,20.6,61.8
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),6.0,6.0,12.26,73.56
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),2.0,2.0,39.98,79.96
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,22.03,22.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Ade, Pomegranate Blue",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 24oz sport cap",CASE (24  1 Each),5.0,5.0,27.05,135.25
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Absolute Zero",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Root Beer",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Ade, Pomegranate Blue",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),3.0,3.0,14.47,43.41
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Paradise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),5.0,5.0,14.47,72.35
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Root Beer",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Lemon Grove Maple",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),5.0,5.0,29.65,148.25
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),1.0,1.0,14.47,14.47
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),3.0,3.0,17.31,51.93
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,12.26,36.78
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),3.0,3.0,24.72,74.16
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Zero Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Ade, Pomegranate Blue",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),3.0,3.0,15.52,46.56
+"Honest Tea, Lemon Grove Maple",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Morrocan Mint green",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,12.26,36.78
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),3.0,3.0,20.33,60.99
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Huberts, Blackberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Original",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Strawberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Paradise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Diet Coke",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,12.26,36.78
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),3.0,3.0,24.72,74.16
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),3.0,3.0,24.72,74.16
+14Z Yup Chocolate,CASE (12  14.16 Ounces),4.0,4.0,17.51,70.04
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),2.0,2.0,39.98,79.96
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),2.0,2.0,23.03,46.06
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Zero Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),3.0,3.0,9.57,28.71
+"Frdg Pk, Sprite",CASE (2  1 Each),3.0,3.0,9.57,28.71
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Lemon Grove Maple",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Morrocan Mint green",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Peach White Tea",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Blackberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Original",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Strawberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),6.0,6.0,12.26,73.56
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),4.0,4.0,19.49,77.96
+"Smart Water, 1 Liter",CASE (12  1 Each),12.0,12.0,17.31,207.72
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Absolute Zero",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Paradise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),13.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),3.0,3.0,9.57,28.71
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),1.0,1.0,20.0,20.0
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),4.0,4.0,12.26,49.04
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Ade, Pomegranate Blue",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),3.0,3.0,14.47,43.41
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),3.0,3.0,22.13,66.39
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,12.26,36.78
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Smart Water, 1 Liter",CASE (12  1 Each),2.0,2.0,17.31,34.62
+"Smart Water, 1.5Liter",CASE (12  1 Each),2.0,2.0,22.73,45.46
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,12.26,36.78
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),12.0,12.0,17.31,207.72
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),1.0,1.0,29.65,29.65
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),1.0,1.0,19.49,19.49
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),1.0,1.0,29.65,29.65
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Absolute Zero",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Paradise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),3.0,3.0,19.49,58.47
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Strawberry Banana,CASE (12  1 Each),1.0,1.0,29.65,29.65
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,12.26,24.52
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),3.0,3.0,22.13,66.39
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Ade, Pomegranate Blue",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,9.57,28.71
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),3.0,3.0,9.57,28.71
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),4.0,4.0,17.51,70.04
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Melon",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Diet Coke",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach OoLaLong",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),2.0,2.0,20.6,41.2
+"Huberts, Strawberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),2.0,2.0,9.57,19.14
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),2.0,2.0,22.73,45.46
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Pibb Xtra",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),3.0,3.0,24.72,74.16
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),4.0,4.0,24.72,98.88
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),3.0,3.0,22.13,66.39
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Zero Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),5.0,5.0,29.65,148.25
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+"Dasani, Liter",CASE (12  1 Liter),4.0,4.0,19.49,77.96
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),3.0,3.0,24.72,74.16
+14Z Yup Chocolate,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Paradise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Red",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 32oz White Cherry",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Smart Water, 1 Liter",CASE (12  1 Each),8.0,8.0,17.31,138.48
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),4.0,4.0,17.51,70.04
+14Z Yup Lowfat,CASE (12  12 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Vanilla,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 32oz White Cherry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Orange",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Huberts, Blackberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),10.0,10.0,27.05,270.5
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),1.0,1.0,21.97,21.97
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, Coke",CASE (24  1 Each),3.0,3.0,40.5,121.5
+"Energy, Coke Zero",CASE (24  1 Each),3.0,3.0,40.5,121.5
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),4.0,4.0,22.13,88.52
+"Powerade, 28oz Zero Mixed Berry",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Coke Zero",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Diet Coke",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Peach White Tea",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),4.0,4.0,17.31,69.24
+"Smart Water, 1.5Liter",CASE (12  1 Each),4.0,4.0,22.73,90.92
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),1.0,1.0,24.72,24.72
+14Z Yup Chocolate,CASE (12  14.16 Ounces),3.0,3.0,17.51,52.53
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Blue",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Mixed Berry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),4.0,4.0,29.65,118.6
+Core Power Vanilla,CASE (12  1 Each),6.0,6.0,29.65,177.9
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Energy, 16oz Monster, Absolute Zero",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz Monster, Ultra White",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, Coke",CASE (24  1 Each),1.0,1.0,38.0,38.0
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Cranberry Grape",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Grape 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Grape",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),4.0,4.0,22.13,88.52
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Mixed Berry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Power C",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z XXX",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),4.0,4.0,12.99,51.96
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Grape",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 ounce, Sprite Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),2.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Honey Green",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Peach White Tea",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Original",CASE (12  1 Each),2.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Liter",CASE (12  1 Liter),4.0,4.0,19.49,77.96
+"Smart Water, 1 Liter",CASE (12  1 Each),16.0,16.0,17.31,276.96
+"Smart Water, 1.5Liter",CASE (12  1 Each),8.0,8.0,22.73,181.84
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Vanilla,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Minute Maid, Apple Juice",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Fruit Punch, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),3.0,3.0,22.13,66.39
+"Powerade, 28oz Zero Mixed Berry",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z XXX",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),3.0,3.0,12.99,38.97
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"1.25 Liter, Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Diet Coke",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"20 ounce, Fuze Lemon Tea",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Honest Tea, Half and Half",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Honest Tea, Honey Green",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Honest Tea, Peach White Tea",CASE (12  1 Each),1.0,1.0,15.52,15.52
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),2.0,2.0,20.6,41.2
+Core Power Chocolate,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, Berry 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Lime 8pk -12 OZ(3 per case)",CASE (3  8 Each),1.0,1.0,9.57,9.57
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),10.0,10.0,17.31,173.1
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),6.0,6.0,27.05,162.3
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),2.0,2.0,24.72,49.44
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+14Z Yup Lowfat,CASE (12  12 Ounces),1.0,1.0,17.51,17.51
+14Z Yup Strawberry,CASE (12  14.16 Ounces),1.0,1.0,17.51,17.51
+"Energy, 16oz Monster, Ultra Sunrise",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"Energy, 16oz. Monster, Original (green)",CASE (24  1 Each),1.0,1.0,39.98,39.98
+"20 Ounce, Sprite Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Minute Maid, Cranapple Raspberry",CASE (24  1 Each),1.0,1.0,24.51,24.51
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),2.0,2.0,23.03,46.06
+Powerade Orange 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Fruit Punch 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade Zero, Mixed Berry 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Grape",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),4.0,4.0,22.13,88.52
+"Powerade, 28oz Zero Grape",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Zero Mixed Berry",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z essential",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Rise",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Zero XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"1.25 Liter, Coke",CASE (12  1 Liter),2.0,2.0,16.48,32.96
+"1.25 Liter, Sprite",CASE (12  1 Liter),1.0,1.0,16.48,16.48
+"20 Ounce, Cherry Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Cherry Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Coke Classic",CASE (24  1 Each),2.0,2.0,20.33,40.66
+"20 Ounce, Coke Zero",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Diet Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Fanta Pineapple",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Lemonade",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 ounce, Sprite",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Vanilla Coke",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Frdg Pk, Coke Zero",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Fanta Grape",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Pibb Extra",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),2.0,2.0,9.57,19.14
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),3.0,3.0,15.71,47.13
+"Honest Tea, Half and Half",CASE (12  1 Each),2.0,2.0,15.52,31.04
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+"Huberts, Strawberry",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),6.0,6.0,29.65,177.9
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),2.0,2.0,29.65,59.3
+"Dasani, 20oz",CASE (24  1 Each),4.0,4.0,14.47,57.88
+"Dasani, Liter",CASE (12  1 Liter),2.0,2.0,19.49,38.98
+"Smart Water, 1 Liter",CASE (12  1 Each),12.0,12.0,17.31,207.72
+"Smart Water, 1.5Liter",CASE (12  1 Each),6.0,6.0,22.73,136.38
+"Smart Water, 24oz sport cap",CASE (24  1 Each),8.0,8.0,27.05,216.4
+"Zico, Coconut Water 16.9z",CASE (12  1 Each),2.0,2.0,21.97,43.94
+"Dunkin Donuts Coffee, French Vanilla",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Mocha",CASE (12  1 Each),1.0,1.0,24.72,24.72
+"Dunkin Donuts Coffee, Orig",CASE (12  1 Each),2.0,2.0,24.72,49.44
+14Z Yup Chocolate,CASE (12  14.16 Ounces),2.0,2.0,17.51,35.02
+"Powerade Lemon Lime, 20oz",CASE (24  1 Each),1.0,1.0,23.03,23.03
+Powerade Mountain Blast 20oz,CASE (24  1 Each),1.0,1.0,23.03,23.03
+"Powerade, 28oz Fruit Punch",CASE (15  1 Each),1.0,1.0,22.13,22.13
+"Powerade, 28oz Mountain Berry Blast",CASE (15  1 Each),2.0,2.0,22.13,44.26
+"Vitamin Water, 20z energy",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z focus",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z Power C",CASE (12  1 Each),2.0,2.0,12.99,25.98
+"Vitamin Water, 20z XXX",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"Vitamin Water, 20z Zero Sqez",CASE (12  1 Each),1.0,1.0,12.99,12.99
+"20 ounce, Coke Classic",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"20 Ounce, Seagrams Gingerale",CASE (24  1 Each),1.0,1.0,20.33,20.33
+"Frdg Pk, Coke Classic",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Diet Coke",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Seagrams Gingerale",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Frdg Pk, Sprite",CASE (2  1 Each),1.0,1.0,9.57,9.57
+"Gold Peak, Green Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Raspberry Tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Gold Peak, Sweetened Tea",CASE (12  1 Each),2.0,2.0,15.71,31.42
+"Gold Peak, Unsweetened tea",CASE (12  1 Each),1.0,1.0,15.71,15.71
+"Huberts, Original",CASE (12  1 Each),1.0,1.0,20.6,20.6
+Core Power Chocolate,CASE (12  1 Each),3.0,3.0,29.65,88.95
+Core Power Strawberry Banana,CASE (12  1 Each),2.0,2.0,29.65,59.3
+Core Power Vanilla,CASE (12  1 Each),3.0,3.0,29.65,88.95
+"Dasani, 20oz",CASE (24  1 Each),2.0,2.0,14.47,28.94
+"Smart Water, 1 Liter",CASE (12  1 Each),6.0,6.0,17.31,103.86
+"Smart Water, 1.5Liter",CASE (12  1 Each),2.0,2.0,22.73,45.46
+"Smart Water, 24oz sport cap",CASE (24  1 Each),4.0,4.0,27.05,108.2
