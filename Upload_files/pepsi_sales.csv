@@ -1,25 +1,15 @@
-"Item Name
-","Size
-","Order
-Qty","Rcvd
-Qty","Cost
-","Extended
-Cost"
+Item_Name,Size,Order_Qty,Rcvd_Qty,Cost,Extended_Cost
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),12.0,1.0,28.64,28.64
-Starbucks CB CCO HNY,CASE (12  11 Ounces),,4.0,,0.0
 "Starbucks, Double Shot Vanilla Energy",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Double Shot White Chocolate",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Frappuccino, Brown Butter Caramel",CASE (12  1 Each),1.0,1.0,24.0,24.0
-"Starbucks, Frappuccino, Caramel",CASE (12  1 Each),,1.0,,0.0
 "Starbucks, Frappuccino, Coffee",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),2.0,2.0,24.0,48.0
-"Starbucks, Frappuccino, Salted Dark Chocolate",CASE (12  1 Each),,1.0,,0.0
 "Starbucks, Frappuccino, Toasted White Chocolate",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
-"Starbucks, small, Double shot Cubano",CASE (12  1 Each),,4.0,,0.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),4.0,4.0,23.94,95.76
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),4.0,4.0,23.94,95.76
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),2.0,2.0,27.0,54.0
@@ -28,12 +18,10 @@ Starbucks CB CCO HNY,CASE (12  11 Ounces),,4.0,,0.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Game Fuel Cherry Burst",CASE (12  1 Each),1.0,1.0,19.57,19.57
-"Mountain Dew, Game Fuel Original",CASE (12  1 Each),,1.0,,0.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,2.0,38.0,76.0
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
-"Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),,2.0,,0.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -41,10 +29,8 @@ Starbucks CB CCO HNY,CASE (12  11 Ounces),,4.0,,0.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
-"Gatorade ZERO 20oz, Lemon Lime",CASE (24  1 Each),,1.0,,0.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Green Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
-"Naked 15.2oz, Kale Blazer",Case (8  1 Each),,2.0,,0.0
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Orange Carrot",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Power C Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
@@ -54,36 +40,20 @@ Starbucks CB CCO HNY,CASE (12  11 Ounces),,4.0,,0.0
 "Propel 20oz, Grape",CASE (12  1 Each),2.0,2.0,25.0,50.0
 "Propel 20oz, Strawberry Lemonade",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Watermelon",CASE (12  1 Each),2.0,2.0,25.0,50.0
-"Tropicana 12oz, Grape",CASE (12  1 Each),,2.0,,0.0
-"Tropicana 12oz, Grapefruit",CASE (12  1 Each),,2.0,,0.0
 "Tropicana 12oz, Lemonade",CASE (12  1 Each),4.0,4.0,15.48,61.92
-"Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),,4.0,,0.0
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
-"1 Liter, Sierra Mist",CASE (12  1 Each),,2.0,,0.0
-"1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),,2.0,,0.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),3.0,3.0,9.0,27.0
 "12oz, Diet Pepsi 12packs",CASE (2  1 Each),3.0,3.0,9.0,27.0
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),3.0,3.0,9.0,27.0
 "12oz, Mountain Dew 12packs",CASE (2  1 Each),3.0,3.0,9.0,27.0
 "12oz, Pepsi 12packs",CASE (2  1 Each),3.0,3.0,9.0,27.0
-"12oz, Sierra Mist 12packs",CASE (2  1 Each),,3.0,,0.0
-"20oz, Mountain Dew Voltage",CASE (24  1 Each),,1.0,,0.0
-"20oz, Mug Root Beer",CASE (24  1 Each),,1.0,,0.0
 "20oz, Orange Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi Zero",CASE (24  1 Each),1.0,1.0,19.0,19.0
-"Bundaberg, Ginger Beer",CASE (24  1 Each),,4.0,,0.0
-"Kevita, Ginger",CASE (12  1 Each),,2.0,,0.0
-"Kevita, Mojita",CASE (12  1 Each),,1.0,,0.0
-"Kevita, Pinapple Peach",CASE (12  1 Each),,2.0,,0.0
-"Kevita, Raspberry Lemon",CASE (12  1 Each),,2.0,,0.0
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
-"Pure Leaf Tea, Green",CASE (12  1 Each),,2.0,,0.0
-"Pure Leaf Tea, Lemon",CASE (12  1 Each),,2.0,,0.0
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),2.0,2.0,14.58,29.16
-"Pure Leaf Tea, Raspberry",CASE (12  1 Each),,2.0,,0.0
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Bubly 16oz, Blackberry",CASE (12  1 Each),2.0,2.0,9.0,18.0
@@ -174,19 +144,16 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),10.0,10.0,28.64,286.4
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),4.0,4.0,23.94,95.76
-,,,,,
 "Mountain Dew, Game Fuel Cherry Burst",CASE (12  1 Each),2.0,2.0,19.57,39.14
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Muscle Milk, Chocolate",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,3.0,38.0,114.0
-,,,,,
 "Naked 15.2oz, Green Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Power C Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Tropicana 12oz, Apple Juice",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
@@ -234,7 +201,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -242,7 +208,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -260,7 +225,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),2.0,2.0,9.0,18.0
@@ -280,7 +244,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),8.0,8.0,14.0,112.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),3.0,3.0,28.0,84.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, Sour Heads",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, Star Blast",CASE (12  1 Each),2.0,2.0,19.0,38.0
@@ -289,7 +252,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),8.0,8.0,14.0,112.0
 "Mountain Dew, Kick Start Fruit Punch",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Mountain Dew, Kick Start, Orange",CASE (12  1 Each),1.0,1.0,12.0,12.0
-,,,,,
 "Gatorade ZERO 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),2.0,2.0,18.24,36.48
@@ -300,7 +262,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),8.0,8.0,14.0,112.0
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Tropicana 12oz, Apple Juice",CASE (12  1 Each),3.0,3.0,15.48,46.44
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Bubly Cherry 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Bubly Grapefruit 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
@@ -322,7 +283,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),8.0,8.0,14.0,112.0
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),2.0,2.0,14.58,29.16
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),4.0,4.0,14.31,57.24
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),3.0,3.0,9.0,27.0
@@ -330,15 +290,12 @@ Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),3.0,3.0,9.0,27.0
 "Bubly 16oz, Lime",CASE (12  1 Each),3.0,3.0,9.0,27.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),3.0,3.0,9.0,27.0
-,,,,,
-,,,,,
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Frappuccino, Toasted White Chocolate",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),4.0,4.0,23.94,95.76
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -351,7 +308,6 @@ Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Tropicana 12oz, Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Orange Juice No Pulp",CASE (12  1 Each),6.0,6.0,15.48,92.88
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),2.0,2.0,19.1,38.2
@@ -366,7 +322,6 @@ Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "20oz, Dr. Pepper",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -383,20 +338,16 @@ Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
-,,,,,
-,,,,,
 "Starbucks, Frappuccino, Caramel",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Coffee",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),4.0,4.0,24.0,96.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -404,7 +355,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Propel 20oz, Zero Grape",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero KW",CASE (12  1 Each),1.0,1.0,25.0,25.0
-,,,,,
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -415,7 +365,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
 "20oz, Mountain Dew Voltage",CASE (24  1 Each),2.0,2.0,19.0,38.0
 "20oz, Orange Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),2.0,2.0,19.0,38.0
-,,,,,
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
@@ -429,11 +378,9 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 Voss Glass Still 800ml,CASE (12  1 Each),2.0,2.0,22.8,45.6
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),2.0,2.0,24.0,48.0
-,,,,,
 "Mountain Dew, Game Fuel Cherry Burst",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Mountain Dew, Kick Start Fruit Punch",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -450,7 +397,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),4.0,4.0,15.48,61.92
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -461,7 +407,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "12oz, Pepsi 12packs",CASE (2  1 Each),2.0,2.0,9.0,18.0
 "20oz, Diet Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Dr. Pepper",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
@@ -478,12 +423,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Starbucks, Frappuccino, Coffee",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Frappuccino, Toasted White Chocolate",CASE (12  1 Each),2.0,1.0,24.0,24.0
-"Starbucks, Frappuccino, Toasted White Chocolate",CASE (12  1 Each),,1.0,,0.0
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),4.0,4.0,28.0,112.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),4.0,4.0,28.0,112.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -492,7 +435,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Muscle Milk, Chocolate",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,3.0,38.0,114.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -519,7 +461,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, OJ No Pulp",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -533,7 +474,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "20oz, Sierra Mist",CASE (24  1 Each),3.0,3.0,19.0,57.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
 "Bundaberg, Root Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),2.0,2.0,13.5,27.0
 "Kevita, Raspberry Lemon",CASE (12  1 Each),2.0,2.0,13.5,27.0
@@ -543,7 +483,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),2.0,2.0,14.58,29.16
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),2.0,2.0,9.0,18.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),8.0,8.0,17.0,136.0
@@ -559,7 +498,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -570,7 +508,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -594,7 +531,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ No Pulp",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "12oz, Bubly Grapefruit 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Diet Pepsi 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
@@ -608,7 +544,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),3.0,3.0,19.0,57.0
-,,,,,
 "Kevita, Ginger",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -619,7 +554,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),6.0,6.0,6.0,36.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),8.0,8.0,17.0,136.0
@@ -636,7 +570,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -648,7 +581,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),3.0,3.0,18.0,54.0
@@ -676,12 +608,10 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),2.0,2.0,19.0,38.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
 "Bundaberg, Root Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),4.0,4.0,14.31,57.24
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 Aquafina 16.9oz,CASE (24  1 Each),3.0,3.0,6.0,18.0
@@ -703,12 +633,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -723,7 +651,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Propel 20oz, Zero BRY",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero Grape",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero KW",CASE (12  1 Each),1.0,1.0,25.0,25.0
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),2.0,2.0,25.46,50.92
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),2.0,2.0,25.46,50.92
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -737,7 +664,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "20oz, Grape Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Mountain Dew Code Red",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Strawberry Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -745,7 +671,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
@@ -779,7 +704,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),8.0,8.0,28.64,229.12
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -822,13 +746,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),8.0,8.0,28.64,229.12
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi Zero",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),2.0,2.0,13.5,27.0
 "Kevita, Pinapple Peach",CASE (12  1 Each),2.0,2.0,13.5,27.0
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),2.0,2.0,19.09,38.18
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),2.0,2.0,9.0,18.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -844,14 +766,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, PRPL HZ",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -867,7 +787,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Naked 15.2oz, Red Machine",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Propel 20oz, Strawberry Lemonade",CASE (12  1 Each),2.0,2.0,25.0,50.0
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -879,13 +798,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "20oz, Mountain Dew",CASE (24  1 Each),2.0,2.0,19.0,38.0
 "20oz, Strawberry Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
@@ -900,7 +817,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
 "Tropicana 12oz, Lemonade",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -911,14 +827,12 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start, Orange",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -928,7 +842,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
 "Propel 20oz, Zero BRY",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero Grape",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero KW",CASE (12  1 Each),1.0,1.0,25.0,25.0
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -945,7 +858,6 @@ LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
 "20oz, Grape Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -961,7 +873,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),3.0,3.0,28.0,84.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -969,7 +880,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -979,7 +889,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Propel 20oz, Zero Grape",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Tropicana 12oz, Grape",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Cherry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -995,7 +904,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),3.0,3.0,14.58,43.74
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1015,14 +923,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Mountain Dew, Kick Start Fruit Punch",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Mountain Dew, Kick Start, Orange",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),3.0,3.0,18.0,54.0
@@ -1054,12 +960,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Mountain Dew",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1067,7 +971,6 @@ LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),2.0,2.0,21.0,42.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
-,,,,,
 GAT RVR PB CCHP,EACH (Each),4.0,4.0,20.0,80.0
 GAT RVR PB CCPNUT,EACH (Each),3.0,3.0,20.0,60.0
 Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
@@ -1081,7 +984,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -1090,8 +992,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,1.0,38.0,38.0
-"Muscle Milk, Vanilla",CASE (12  1 Each),,2.0,,0.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -1121,14 +1021,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Pepsi Zero",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),3.0,3.0,14.31,42.93
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1169,7 +1067,6 @@ Starbucks ZR SGR BLK,EACH (Each),2.0,2.0,27.0,54.0
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "12oz, Bubly Cherry 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Bubly ORG SPK",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
@@ -1183,7 +1080,6 @@ Starbucks ZR SGR BLK,EACH (Each),2.0,2.0,27.0,54.0
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
@@ -1205,7 +1101,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -1213,7 +1108,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -1247,7 +1141,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "20oz, Pineapple Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
@@ -1255,7 +1148,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1315,7 +1207,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Mountain Dew 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Pepsi 12packs",CASE (2  1 Each),2.0,2.0,9.0,18.0
-"20oz, Diet Dr. Pepper",CASE (24  1 Each),,1.0,,0.0
 "20oz, Dr. Pepper",CASE (24  1 Each),2.0,2.0,19.0,38.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -1425,7 +1316,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),4.0,2.0,9.0,18.0
-"12oz, Bubly Blackberry 8pks",CASE (3  8 Each),,2.0,,0.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
@@ -1441,7 +1331,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),3.0,2.0,6.0,12.0
-Aquafina 16.9oz,CASE (24  1 Each),,1.0,,0.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1460,12 +1349,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Starbucks, small, Double shot Cubano",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -1483,7 +1370,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -1499,13 +1385,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "20oz, Dr. Pepper Cherry",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Mountain Dew Code Red",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi Zero",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),3.0,3.0,6.0,18.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -1620,10 +1504,8 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -1639,7 +1521,6 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Propel 20oz, Zero BRY",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero Grape",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Propel 20oz, Zero KW",CASE (12  1 Each),1.0,1.0,25.0,25.0
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -1677,12 +1558,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -1697,7 +1576,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Naked 15.2oz, Power C Machine",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Red Machine",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),2.0,2.0,18.24,36.48
-,,,,,
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.1,19.1
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -1818,12 +1696,10 @@ GAT RVR PB CCPNUT,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Tropicana 12oz, Apple",CASE (12  1 Each),2.0,2.0,15.48,30.96
-"Tropicana 12oz, Apple",CASE (12  1 Each),,2.0,,0.0
 "Tropicana 12oz, Grape",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),3.0,3.0,15.48,46.44
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-"20oz, Diet Mountain Dew",CASE (24  1 Each),,1.0,,0.0
 "Kevita, Ginger",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Mojita",CASE (12  1 Each),2.0,2.0,13.5,27.0
 "Kevita, Pinapple Peach",CASE (12  1 Each),2.0,2.0,13.5,27.0
@@ -1936,7 +1812,6 @@ GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
-,,,,,
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Green Machine",Case (8  1 Each),1.0,1.0,18.24,18.24
@@ -1946,7 +1821,6 @@ GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Tropicana 12oz, Apple",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Grape",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "12oz, Bubly Cherry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -1956,11 +1830,9 @@ GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "12oz, Pepsi 12packs",CASE (2  1 Each),2.0,2.0,9.0,18.0
 "20oz, Orange Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16oz  AL BTL,CASE (24  1 Each),4.0,4.0,24.0,96.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
@@ -1980,20 +1852,17 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Tropicana 12oz, Apple",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Mountain Dew 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
@@ -2007,12 +1876,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),2.0,2.0,24.0,48.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2026,7 +1893,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Tropicana 12oz, Apple",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -2049,13 +1915,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Lime",CASE (12  1 Each),2.0,2.0,9.0,18.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
-,,,,,
 GAT RVR PB CCHP,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CCPNUT,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CHCRML,EACH (Each),2.0,2.0,20.0,40.0
@@ -2066,10 +1930,8 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
-,,,,,
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -2086,7 +1948,6 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Tropicana 12oz, Apple",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
@@ -2107,7 +1968,6 @@ Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),2.0,2.0,9.0,18.0
@@ -2127,7 +1987,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2137,7 +1996,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -2169,14 +2027,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),4.0,4.0,14.31,57.24
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2189,7 +2045,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),6.0,6.0,14.0,84.0
 Voss Glass Still 800ml,CASE (12  1 Each),2.0,2.0,22.8,45.6
-,,,,,
 GAT RVR PB CCHP,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CCPNUT,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CHCRML,EACH (Each),2.0,2.0,20.0,40.0
@@ -2203,11 +2058,9 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),2.0,2.0,23.94,47.88
-,,,,,
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Game Fuel Original",CASE (12  1 Each),1.0,1.0,19.57,19.57
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2219,7 +2072,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Propel 20oz, Zero BRY",CASE (12  1 Each),1.0,1.0,25.0,25.0
 "Tropicana 12oz, Apple",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
 "12oz, Bubly Cherry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -2237,7 +2089,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2245,7 +2096,6 @@ LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
-,,,,,
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CCPNUT,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
@@ -2256,7 +2106,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, Caramel",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, BANGSTER BRY",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2267,7 +2116,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,3.0,38.0,114.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2283,7 +2131,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),3.0,3.0,15.48,46.44
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Dr Pepper",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -2300,10 +2147,8 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Strawberry Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),2.0,2.0,31.82,63.64
-,,,,,
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),2.0,2.0,9.0,18.0
@@ -2320,7 +2165,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Frappuccino, Toasted White Chocolate",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Bang, BDay Cake",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2329,7 +2173,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start Fruit Punch",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2587,16 +2430,13 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "20oz, Dr. Pepper",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Mountain Dew",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Double Shot Mocha Energy",CASE (12  1 Each),1.0,1.0,27.0,27.0
@@ -2605,7 +2445,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, DLSH STRWKS",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2613,7 +2452,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2624,7 +2462,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),2.0,1.0,18.24,18.24
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),2.0,1.0,18.24,18.24
 "Naked 15.2oz, Orange Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
-"Naked 15.2oz, Orange Mango",Case (8  1 Each),,1.0,,0.0
 "Naked 15.2oz, Power C Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Red Machine",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),2.0,2.0,18.24,36.48
@@ -2646,16 +2483,13 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Mountain Dew 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "12oz, Pepsi 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
-"20oz, Diet Mountain Dew",CASE (24  1 Each),,1.0,,0.0
 "20oz, Grape Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
-"20oz, Mountain Dew",CASE (24  1 Each),,1.0,,0.0
 "20oz, Orange Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pineapple Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Strawberry Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -2663,7 +2497,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),6.0,6.0,17.0,102.0
@@ -2671,7 +2504,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),6.0,6.0,14.0,84.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT RVR PB CCHP,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CCPNUT,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CHCRML,EACH (Each),2.0,2.0,20.0,40.0
@@ -2681,7 +2513,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Double Shot Vanilla Energy",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Frappuccino, Caramel",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2695,7 +2526,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2735,13 +2565,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Strawberry Crush",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 Aquafina 16oz  AL BTL,CASE (24  1 Each),2.0,2.0,24.0,48.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2749,13 +2577,11 @@ Aquafina 16oz  AL BTL,CASE (24  1 Each),2.0,2.0,24.0,48.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
-,,,,,
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Double Shot Vanilla Energy",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),1.0,1.0,24.0,24.0
-,,,,,
 "Bang, BDay Cake",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2763,7 +2589,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -2784,7 +2609,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -2798,14 +2622,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "20oz, Diet Dr. Pepper",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2816,7 +2638,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),10.0,10.0,21.0,210.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CCPNUT,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
@@ -2828,14 +2649,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Dole, 20oz Strawberry Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2874,7 +2693,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "20oz, Mountain Dew MJR MLN",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -2883,7 +2701,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2892,7 +2709,6 @@ LifeWTR 1 Liter,CASE (12  1 Each),8.0,8.0,17.0,136.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),8.0,8.0,21.0,168.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
-,,,,,
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CCPNUT,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
@@ -2906,7 +2722,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, BDay Cake",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, DLSH STRWKS",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -2921,7 +2736,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),3.0,3.0,38.0,114.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -2954,7 +2768,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -2962,7 +2775,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),6.0,6.0,28.64,171.84
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -2973,7 +2785,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT GLYT ORG,EACH (Each),3.0,3.0,26.0,78.0
 GAT GLYT STW,EACH (Each),3.0,3.0,26.0,78.0
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
@@ -2989,12 +2800,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, Caramel",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),2.0,2.0,38.0,76.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3021,20 +2830,17 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Diet Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
-,,,,,
 GAT GLYT ORG,EACH (Each),1.0,1.0,26.0,26.0
 GAT GLYT STW,EACH (Each),1.0,1.0,26.0,26.0
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
@@ -3049,11 +2855,9 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, DLSH STRWKS",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3073,7 +2877,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
@@ -3088,14 +2891,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
-,,,,,
 GAT GLYT STW,EACH (Each),1.0,1.0,26.0,26.0
 Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
@@ -3176,7 +2977,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Rad SKD",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
@@ -3272,11 +3072,9 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Pepsi Zero",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 Aquafina 16oz  AL BTL,CASE (24  1 Each),2.0,2.0,24.0,48.0
@@ -3289,7 +3087,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT GLYT ORG,EACH (Each),3.0,3.0,26.0,78.0
 GAT GLYT STW,EACH (Each),3.0,3.0,26.0,78.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
@@ -3302,7 +3099,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),3.0,3.0,28.0,84.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, BDay Cake",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, DLSH STRWKS",CASE (12  1 Each),2.0,2.0,19.0,38.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -3312,7 +3108,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -3344,7 +3139,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
@@ -3352,7 +3146,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 "Bubly 16oz, Cherry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),2.0,2.0,9.0,18.0
@@ -3360,7 +3153,6 @@ Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),6.0,6.0,21.0,126.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CCPNUT,EACH (Each),2.0,2.0,20.0,40.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
@@ -3373,14 +3165,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -3390,13 +3180,11 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Orange Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),1.0,1.0,18.24,18.24
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Diet Pepsi 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -3416,7 +3204,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
-,,,,,
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Rad SKD",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -3425,7 +3212,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Mountain Dew, Kick Start Pinapple Orange Mango",CASE (12  1 Each),1.0,1.0,12.0,12.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),3.0,3.0,38.0,114.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3437,7 +3223,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
@@ -3457,14 +3242,12 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),1.0,1.0,6.0,6.0
 LifeWTR 1 Liter,CASE (12  1 Each),4.0,4.0,17.0,68.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),5.0,5.0,21.0,105.0
 LifeWTR 500ml,CASE (4  6 Each),3.0,3.0,25.46,76.38
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
-,,,,,
 GAT GLYT ORG,EACH (Each),2.0,2.0,26.0,52.0
 GAT GLYT STW,EACH (Each),4.0,4.0,26.0,104.0
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
@@ -3478,12 +3261,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
 "Starbucks, Triple Shot, Mocha",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Rad SKD",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Orange",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3496,7 +3277,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Tropicana 12oz, Isalnd Punch",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
 "12oz, Bubly Grapefruit 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -3504,7 +3284,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Diet Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Mountain Dew",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
@@ -3516,7 +3295,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 Voss Glass Still 800ml,CASE (12  1 Each),1.0,1.0,22.8,22.8
-,,,,,
 GAT GLYT ORG,EACH (Each),1.0,1.0,26.0,26.0
 GAT GLYT STW,EACH (Each),1.0,1.0,26.0,26.0
 Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
@@ -3535,7 +3313,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),2.0,2.0,23.94,47.88
 "Starbucks, small, Double shot, salted caramel",CASE (12  1 Each),1.0,1.0,23.94,23.94
-,,,,,
 "Bang, DLSH STRWKS",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -3544,7 +3321,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Dole, 20oz Lemonade",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3567,7 +3343,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Tropicana 12oz, Grape",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Homestyle OJ",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
@@ -3582,7 +3357,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -3590,7 +3364,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 16oz  AL BTL,CASE (24  1 Each),1.0,1.0,24.0,24.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Grapefruit",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -3598,7 +3371,6 @@ Aquafina 16oz  AL BTL,CASE (24  1 Each),1.0,1.0,24.0,24.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),2.0,2.0,14.0,28.0
-,,,,,
 GAT GLYT ORG,EACH (Each),1.0,1.0,26.0,26.0
 GAT GLYT STW,EACH (Each),2.0,2.0,26.0,52.0
 GAT RVR PB CCHP,EACH (Each),2.0,2.0,20.0,40.0
@@ -3611,7 +3383,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Starbucks, Nitro, Black",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Dark Caramel",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -3619,7 +3390,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "Muscle Milk, Chocolate",CASE (12  1 Each),2.0,2.0,38.0,76.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
@@ -3642,10 +3412,8 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),4.0,4.0,28.64,114.56
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),1.0,1.0,14.31,14.31
 Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -3656,7 +3424,6 @@ Aquafina 16.9oz,CASE (24  1 Each),2.0,2.0,6.0,12.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),1.0,1.0,25.46,25.46
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
-,,,,,
 GAT GLYT ORG,EACH (Each),1.0,1.0,26.0,26.0
 GAT GLYT STW,EACH (Each),3.0,3.0,26.0,78.0
 Starbucks ZR SGR BLK,EACH (Each),1.0,1.0,27.0,27.0
@@ -3664,7 +3431,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),1.0,1.0,28.0,28.0
 "Starbucks, Triple Shot, Caramel",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Lemon Drop",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Pina Colada",CASE (12  1 Each),1.0,1.0,19.0,19.0
@@ -3672,7 +3438,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Strawberry & Cream",CASE (12  1 Each),1.0,1.0,38.0,38.0
 "Muscle Milk, Vanilla",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),2.0,2.0,18.0,36.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -3691,7 +3456,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Tropicana 12oz, Grape",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
@@ -3708,12 +3472,10 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),5.0,5.0,28.64,143.2
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Raspberry",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 LifeWTR 1 Liter,CASE (12  1 Each),12.0,12.0,17.0,204.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),4.0,4.0,21.0,84.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
-,,,,,
 GAT GLYT ORG,EACH (Each),2.0,2.0,26.0,52.0
 GAT GLYT STW,EACH (Each),3.0,3.0,26.0,78.0
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
@@ -3722,10 +3484,8 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, small, Double shot Espresso and Cream",CASE (12  1 Each),1.0,1.0,23.94,23.94
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Rad SKD",CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Fruit Punch",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),2.0,2.0,18.0,36.0
@@ -3739,7 +3499,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Tropicana 12oz, OJ Calcium",CASE (12  1 Each),1.0,1.0,15.48,15.48
 "Tropicana 12oz, Raspberry Lemonade",CASE (12  1 Each),2.0,2.0,15.48,30.96
 "Tropicana 12oz, Watermelon",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, Diet Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -3756,7 +3515,6 @@ Starbucks CB BLK UNSW,CASE (12  11 Ounces),3.0,3.0,28.64,85.92
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Mango Hibiscus",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),3.0,3.0,6.0,18.0
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
@@ -3769,31 +3527,26 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 LifeWTR 500ml,CASE (4  6 Each),2.0,2.0,25.46,50.92
 LifeWTR 700ml Sport Cap,CASE (12  1 Each),4.0,4.0,14.0,56.0
 Voss Glass Still 800ml,CASE (12  1 Each),2.0,2.0,22.8,45.6
-,,,,,
 GAT GLYT ORG,EACH (Each),2.0,2.0,26.0,52.0
 GAT GLYT STW,EACH (Each),4.0,4.0,26.0,104.0
 "Starbucks, Frappuccino, Coffee",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
 "Starbucks, Nitro, Black",CASE (12  1 Each),2.0,2.0,28.0,56.0
 "Starbucks, Nitro, Vanilla Sweet Cream",CASE (12  1 Each),2.0,2.0,28.0,56.0
-,,,,,
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Key Lime Pie",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Sour Heads",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, Star Blast",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Muscle Milk, Chocolate",CASE (12  1 Each),1.0,1.0,38.0,38.0
-,,,,,
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Cherry",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Propel 20oz, FIT GRP",CASE (12  1 Each),1.0,1.0,12.5,12.5
-,,,,,
 "1 Liter, BRSK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, BRSK STW MLN",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "20oz, Diet Pepsi",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Schweppes Ginger Ale",CASE (24  1 Each),1.0,1.0,19.0,19.0
 "20oz, Sierra Mist",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Cold Brew, Light Sweet Black",CASE (12  1 Each),1.0,1.0,19.09,19.09
@@ -3803,48 +3556,36 @@ GAT GLYT STW,EACH (Each),4.0,4.0,26.0,104.0
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 LifeWTR 1.5 Liter,CASE (12  1 Each),3.0,3.0,21.0,63.0
 "Starbucks, Frappuccino, Vanilla",CASE (12  1 Each),1.0,1.0,24.0,24.0
-,,,,,
 "Bang, Black Cherry Vanilla",CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "Bundaberg, Ginger Beer",CASE (24  1 Each),1.0,1.0,31.82,31.82
-,,,,,
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Lemon",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
-,,,,,
 GAT RVR PB CCHP,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Starbucks, Frappuccino, Mocha",CASE (12  1 Each),1.0,1.0,24.0,24.0
-,,,,,
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Green Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Red Machine",Case (8  1 Each),2.0,2.0,18.24,36.48
-,,,,,
 "1.5 Liter, Schweppes Ginger Ale",CASE (12  1 Each),1.0,1.0,19.77,19.77
-,,,,,
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
-,,,,,
 GAT RVR PB CCPNUT,EACH (Each),1.0,1.0,20.0,20.0
 GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Bang, GA PCH SWT",CASE (12  1 Each),1.0,1.0,19.0,19.0
 "Bang, WYLDIN WMLN",CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Gatorade 20oz, Cool Blue",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade ZERO 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Naked 15.2oz, Mighty Mango",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Tropicana 12oz, Cran Cktl",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly Grapefruit 8pks",CASE (3  8 Each),2.0,2.0,9.0,18.0
 "12oz, Bubly Lime 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Bubly ORG SPK",CASE (3  8 Each),1.0,1.0,9.0,9.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),1.0,1.0,9.0,9.0
 "20oz, Diet Mountain Dew",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Lemon CYNE",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
@@ -3853,13 +3594,11 @@ GAT RVR PB CHCRML,EACH (Each),1.0,1.0,20.0,20.0
 "Pure Leaf Cold Brew, Tropical Mango",CASE (12  1 Each),1.0,1.0,19.09,19.09
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 Aquafina 1 Liter,CASE (12  1 Each),2.0,2.0,14.31,28.62
 Aquafina 16.9oz,CASE (24  1 Each),5.0,5.0,6.0,30.0
 LifeWTR 1 Liter,CASE (12  1 Each),2.0,2.0,17.0,34.0
 LifeWTR 1.5 Liter,CASE (12  1 Each),1.0,1.0,21.0,21.0
 "Starbucks, Triple Shot, French Vanilla",CASE (12  1 Each),1.0,1.0,27.0,27.0
-,,,,,
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),1.0,1.0,18.24,18.24
@@ -3868,7 +3607,6 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),1.0,1.0,21.0,21.0
 "Propel 20oz, FIT GRP",CASE (12  1 Each),1.0,1.0,12.5,12.5
 "Propel 20oz, FIT STW KW",CASE (12  1 Each),1.0,1.0,12.5,12.5
 "Tropicana 12oz, Apple",CASE (12  1 Each),1.0,1.0,15.48,15.48
-,,,,,
 "1 Liter, BRSK PK LMND",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "1 Liter, Pepsi",CASE (12  1 Each),1.0,1.0,25.46,25.46
 "12oz, Bubly Blackberry 8pks",CASE (3  8 Each),1.0,1.0,9.0,9.0
@@ -3878,31 +3616,25 @@ LifeWTR 1.5 Liter,CASE (12  1 Each),1.0,1.0,21.0,21.0
 "12oz, Diet Dr Pepper 12packs",CASE (2  1 Each),2.0,2.0,9.0,18.0
 "12oz, Dr Pepper 12packs",CASE (2  1 Each),2.0,2.0,9.0,18.0
 "20oz, Mountain Dew Code Red",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Ginger",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Lemon CYNE",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Mojita",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Kevita, Raspberry Lemon",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 Starbucks CB BLK UNSW,CASE (12  11 Ounces),2.0,2.0,28.64,57.28
-,,,,,
 MDEW RISE ORG BRZ,CASE (12  1 Each),1.0,1.0,19.0,19.0
 MDEW RISE PCH MGO,CASE (12  1 Each),1.0,1.0,19.0,19.0
 MDEW RISE POW BLU,CASE (12  1 Each),1.0,1.0,19.0,19.0
 MDEW RISE TROPSUN,CASE (12  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Gatorade 20oz, Glacier Freeze",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Gatorade 20oz, Lemon-Lime",CASE (24  1 Each),1.0,1.0,18.0,18.0
 "Naked 15.2oz, Berry Blast",Case (8  1 Each),1.0,1.0,18.24,18.24
 "Naked 15.2oz, Straw Banana",Case (8  1 Each),1.0,1.0,18.24,18.24
-,,,,,
 "20oz, Mountain Dew",CASE (24  1 Each),1.0,1.0,19.0,19.0
-,,,,,
 "Kevita, Pinapple Peach",CASE (12  1 Each),1.0,1.0,13.5,13.5
 "Pure Leaf Tea, Extra Sweet",CASE (12  1 Each),1.0,1.0,14.58,14.58
 "Pure Leaf Tea, Sweet",CASE (12  1 Each),2.0,2.0,14.58,29.16
 "Pure Leaf Tea, Unsweetened Black",CASE (12  1 Each),1.0,1.0,14.58,14.58
-,,,,,
 "Bubly 16oz, Blackberry",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Lime",CASE (12  1 Each),1.0,1.0,9.0,9.0
 "Bubly 16oz, Strawberry",CASE (12  1 Each),1.0,1.0,9.0,9.0

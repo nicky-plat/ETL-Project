@@ -130,7 +130,6 @@ Item Name,Inventory Group,Primary Vendor
 " Pepsi 12 Pack, Dr. Pepper ", Beverages:Sodas , Pepsi Bottling Company 
 " Pepsi 12 Pack, Mountain Dew ", Beverages:Sodas , Pepsi Bottling Company 
 " Pepsi 12 Pack, Pepsi ", Beverages:Sodas , Pepsi Bottling Company 
-" Pepsi 12 Pack, Pepsi ", Beverages:Sodas , Pepsi Bottling Company 
 " Propel 20oz, Berry ", Beverages:Juices , Pepsi Bottling Company 
 " Propel 20oz, FIT BRY ", Beverages:Juices , Pepsi Bottling Company 
 " Propel 20oz, FIT GRP ", Beverages:Juices , Pepsi Bottling Company 
@@ -175,9 +174,7 @@ Item Name,Inventory Group,Primary Vendor
 " Starbucks, DS ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Brown Butter Caramel ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Caramel ", Beverages:Coffee Beverage , Pepsi Bottling Company 
-" Starbucks, Frappuccino, Caramel ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Caramel 15 Pack ", Beverages:Coffee Beverage , Pepsi Bottling Company 
-" Starbucks, Frappuccino, Coffee ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Coffee ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Dark Chocolate Raspberry ", Beverages:Coffee Beverage , Pepsi Bottling Company 
 " Starbucks, Frappuccino, Dark Mocha ", Beverages:Coffee Beverage , Pepsi Bottling Company 
